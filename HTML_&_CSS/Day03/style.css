@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(160, 252, 221);
+}
+
+#block p {
+    background-color: beige;
+}
+
+#inline span {
+    background-color: brown;
+    color: white;
+}
