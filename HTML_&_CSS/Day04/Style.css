@@ -1,0 +1,14 @@
+.secondClassRed {
+    color: red;
+    font-size: 2rem;
+}
+
+.bgYellow {
+    background-color: yellow;
+}
+
+#firstDiv {
+    background-color: beige;
+    color:rgb(27, 111, 111);
+    font-weight: 900;
+}
