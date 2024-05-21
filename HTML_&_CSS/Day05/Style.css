@@ -1,0 +1,30 @@
+.firstDiv, .firstSpan {
+    color: red;
+    background-color: rgb(206, 206, 116);
+}
+
+.cssType{
+    color: blue;
+    background-color: brown;
+    border-radius: 25px;
+}
+div{
+    background-color: blueviolet;
+}
+
+#red p{
+    background-color: rgb(214, 97, 97);
+}
+
+* {
+    margin: 10%;
+    padding: 10%;
+}
+
+a:visited {
+    background-color: red;
+}
+
+a:hover {
+    color: black;
+}
