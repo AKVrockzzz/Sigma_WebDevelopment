@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    color: rgb(68, 0, 255);
+    padding: 50px;
+    margin: 25px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 200px;
+}
+
+.box2 {
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin: 30px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 200px;
+}
+
+.box {
+    background-color: beige;
+}
+
+.font p {
+    font-family: "Baloo Bhai 2", sans-serif;
+    width: 500px;
+    text-align:justify;
+    font-style: italic;
+    font-size: 1.2rem;
+    word-break: break-all;
+}
+
+.font h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+
+.font h2 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    text-decoration-style: double;
+}
+
+.colors h1 {
+    color: cadetblue;
+    background-color: bisque;
+}
+
+.haxColor {
+    color: #5632a8;
+    width: 500px;
+    text-align: justify;
+}
+
+.rgbColor {
+    color: rgb(196, 26, 43);
+    width: 500px;
+    text-align: justify;
+}
